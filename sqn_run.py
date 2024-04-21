@@ -57,8 +57,8 @@ if __name__ == "__main__":
 
     scenario = {
         'one': ['203789561', 'real_data/memphis/scenario_1/scenario_1.sumocfg', 'real_data/memphis/scenario_1/scenario_1.net.xml'],
-        'two': ['203789561', 'real_data/memphis/scenario_2/scenario_2.sumocfg', 'real_data/memphis/scenario_2/scenario_2.net.xml'],
-        'three': ['203926974', 'real_data/memphis/scenario_3/scenario_3.sumocfg', 'real_data/memphis/scenario_3/scenario_3.net.xml'],
+        'three': ['203789561', 'real_data/memphis/scenario_2/scenario_2.sumocfg', 'real_data/memphis/scenario_2/scenario_2.net.xml'],
+        'two': ['203926974', 'real_data/memphis/scenario_3/scenario_3.sumocfg', 'real_data/memphis/scenario_3/scenario_3.net.xml'],
         'four': ['203926974', 'real_data/memphis/scenario_4/scenario_4.sumocfg', 'real_data/memphis/scenario_4/scenario_4.net.xml']
     }
 
